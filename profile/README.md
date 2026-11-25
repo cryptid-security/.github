@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/njuj-sec/.github/main/profile/banner.svg" alt="Cryptid Security" width="100%" />
+<img src="./banner.svg" alt="Cryptid Security" width="100%" />
 
 <br/>
 
