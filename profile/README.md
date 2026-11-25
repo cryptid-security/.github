@@ -30,7 +30,7 @@ The toolkit spans the full defensive workflow — from pulling a config out of a
 
 ---
 
-## 🔬 Malware Analysis & Reverse Engineering
+## Malware Analysis & Reverse Engineering
 
 | Tool | What it does |
 |------|--------------|
@@ -40,7 +40,7 @@ The toolkit spans the full defensive workflow — from pulling a config out of a
 | [**unwrap**](https://github.com/njuj/unwrap) | Dropper unpacker for `.lnk`, `.hta`, and HTML-smuggling containers — pulls the staged payload without executing it. |
 | [**driver-guard**](https://github.com/njuj/driver-guard) | BYOVD analyzer — flags the vulnerable-driver capabilities (arbitrary R/W, process kill) attackers abuse. |
 
-## 🕵️ DFIR & Threat Intelligence
+## DFIR & Threat Intelligence
 
 | Tool | What it does |
 |------|--------------|
@@ -48,7 +48,7 @@ The toolkit spans the full defensive workflow — from pulling a config out of a
 | [**panoptes**](https://github.com/njuj/panoptes) | PCAP analyzer — detects RAT / Cobalt Strike certificates, DoH, and suspicious TLS by fingerprint. |
 | [**ioc-hunter**](https://github.com/njuj/ioc-hunter) | Turns a threat report into clean, defanged IOCs and **STIX 2.1** bundles — 100% client-side. |
 
-## 🌐 Application & Supply-Chain Security
+## Application & Supply-Chain Security
 
 | Tool | What it does |
 |------|--------------|
@@ -58,13 +58,13 @@ The toolkit spans the full defensive workflow — from pulling a config out of a
 | [**slopcheck**](https://github.com/njuj/slopcheck) | Dependency supply-chain risk — OSV advisories, typosquat detection, and secret scanning. |
 | [**provenance**](https://github.com/njuj/provenance) | Verifies PyPI **PEP 740** attestations and checks for starjacking before you install. |
 
-## 🧠 AI & Content Security
+## AI & Content Security
 
 | Tool | What it does |
 |------|--------------|
 | [**unseen**](https://github.com/njuj/unseen) | Reveals hidden text and prompt-injection payloads — zero-width characters, Unicode tricks, invisible PDF layers. |
 
-## 🛡️ System Hardening
+## System Hardening
 
 | Tool | What it does |
 |------|--------------|
