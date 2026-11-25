@@ -8,13 +8,13 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/website-cryptid--security.github.io-00c2ff?style=flat-square&labelColor=0d1117&logo=githubpages&logoColor=white)](https://cryptid-security.github.io)
+[![Website](https://img.shields.io/badge/website-cryptid--security.github.io-e3bd76?style=flat-square&labelColor=0c1411&logo=githubpages&logoColor=white)](https://cryptid-security.github.io)
 
-![Tools](https://img.shields.io/badge/tools-15-00ff9c?style=flat-square&labelColor=0d1117)
-![Dependencies](https://img.shields.io/badge/runtime_deps-zero_by_design-00c2ff?style=flat-square&labelColor=0d1117)
-![Tested](https://img.shields.io/badge/every_tool-fully_tested-00ff9c?style=flat-square&labelColor=0d1117)
-![Offline](https://img.shields.io/badge/analysis-offline_first-00c2ff?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-MIT-ffffff?style=flat-square&labelColor=0d1117)
+![Tools](https://img.shields.io/badge/tools-15-c6922f?style=flat-square&labelColor=0c1411)
+![Dependencies](https://img.shields.io/badge/runtime_deps-zero_by_design-e3bd76?style=flat-square&labelColor=0c1411)
+![Tested](https://img.shields.io/badge/every_tool-fully_tested-c6922f?style=flat-square&labelColor=0c1411)
+![Offline](https://img.shields.io/badge/analysis-offline_first-e3bd76?style=flat-square&labelColor=0c1411)
+![License](https://img.shields.io/badge/license-MIT-e8e3d6?style=flat-square&labelColor=0c1411)
 
 </div>
 
