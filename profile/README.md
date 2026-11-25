@@ -4,7 +4,7 @@
 
 <br/>
 
-**Open-source tooling and research for malware analysis, reverse engineering, and digital forensics.**
+**Open-source defensive security tooling — malware analysis, reverse engineering, DFIR, and application security.**
 
 <br/>
 
