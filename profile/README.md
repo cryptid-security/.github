@@ -8,6 +8,8 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/website-cryptid--security.github.io-00c2ff?style=flat-square&labelColor=0d1117&logo=githubpages&logoColor=white)](https://cryptid-security.github.io)
+
 ![Tools](https://img.shields.io/badge/tools-15-00ff9c?style=flat-square&labelColor=0d1117)
 ![Dependencies](https://img.shields.io/badge/runtime_deps-zero_by_design-00c2ff?style=flat-square&labelColor=0d1117)
 ![Tested](https://img.shields.io/badge/every_tool-fully_tested-00ff9c?style=flat-square&labelColor=0d1117)
